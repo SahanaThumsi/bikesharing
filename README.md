@@ -16,7 +16,7 @@ The following shows a snapshot of top starting locations in Manhattan
 The checkout times by gender shows us , male renting bikes is way more than other genders
 ![Checkout Times By Gender.PNG](./resources/Checkout Times By Gender.PNG)
 In the following image we can Understand how many trips by weekday per hour look like , which displays around 7-8 am and 5-6pm are busy and Thursday seems to be more busy than other days .
-![description of image](./resources/image.png)
+![Trips By Weekday per Hour.PNG](./resources/Trips By Weekday per Hour.PNG)
 The Following displays User trips by gender and type of user by weekday!
 ![User trips.PNG](./resources/User trips.PNG)
 ## SUMMARY
