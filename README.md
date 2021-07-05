@@ -27,3 +27,5 @@ Maintain more Male style bike stock
 Market to get more subscribers
 And
 Have more staff during busy hours like 7-8 am and busy days like Thursday  to provide all needs and services and requirements to make sure  busy times are handled to avoid problems
+[link to dashboard](https://public.tableau.com/app/profile/satm123/viz/NYCCitibikeAnalysis_16254821192320/NYCCitibikeAnalysis)
+https://public.tableau.com/app/profile/satm123/viz/NYCCitibikeAnalysis_16254821192320/NYCCitibikeAnalysis
