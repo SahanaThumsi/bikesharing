@@ -10,15 +10,15 @@ Different visualisations  below show features such as ,the length of time bikes 
 The below viz shows the proportion of riders in terms of gender and Total number of riders for the August month
 ![Capture.PNG](./resources/Capture.PNG)
 Here is a snapshot of the average trip duration of users
-![Average Trip Duration.PNG](./resources/Average Trip Duration.PNG)
+![AverageTripDuration.PNG](./resources/AverageTripDuration.PNG)
 The following shows a snapshot of top starting locations in Manhattan
-![Top Staring Locations.PNG](./resources/Top Staring Locations.PNG)
+![TopStaringLocations.PNG](./resources/TopStaringLocations.PNG)
 The checkout times by gender shows us , male renting bikes is way more than other genders
-![Checkout Times By Gender.PNG](./resources/Checkout Times By Gender.PNG)
+![CheckoutTimesByGender.PNG](./resources/CheckoutTimesByGender.PNG)
 In the following image we can Understand how many trips by weekday per hour look like , which displays around 7-8 am and 5-6pm are busy and Thursday seems to be more busy than other days .
-![Trips By Weekday per Hour.PNG](./resources/Trips By Weekday per Hour.PNG)
+![TripsByWeekdayperHour.PNG](./resources/TripsByWeekdayperHour.PNG)
 The Following displays User trips by gender and type of user by weekday!
-![User trips.PNG](./resources/User trips.PNG)
+![Usertrips.PNG](./resources/Usertrips.PNG)
 ## SUMMARY
 The checkout times for user is highest during the 0th  the hour , this can be noted to be busiest to Provide services
 Males checkout are the highest , and subscribers are more than customers.
