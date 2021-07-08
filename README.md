@@ -23,10 +23,10 @@ The Following displays User trips by gender and type of user by weekday!
 The checkout times for user is highest during the 0th  the hour , this can be noted to be busiest to Provide services
 Males checkout are the highest , and subscribers are more than customers.
 The business can focus on 3 ideas
-Maintain more Male style bike stock
-Market to get more subscribers
+- Maintain more Male style bike stock
+- Market to get more subscribers
 And
-Have more staff during busy hours like 7-8 am and busy days like Thursday  to provide all needs and services and requirements to make sure  busy times are handled to avoid problems
+- Have more staff during busy hours like 7-8 am and busy days like Thursday  to provide all needs and services and requirements to make sure  busy times are handled well to avoid problems
 [link to dashboard](https://public.tableau.com/app/profile/satm123/viz/NYCCitibikeAnalysis_16254821192320/NYCCitibikeAnalysis)
 
 ## The below link is to all other viz from the module.
