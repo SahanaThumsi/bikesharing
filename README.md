@@ -7,18 +7,32 @@ August month has been used to study various factors as it is one of the busiest 
 Different visualisations  below show features such as ,the length of time bikes are checked out for all riders genders and each user type for each hour and each day of the week etc.
 
 ## RESULTS 
-The below viz shows the proportion of riders in terms of gender and Total number of riders for the August month
+### The below viz shows the proportion of riders in terms of gender and Total number of riders for the August month
 ![Capture.PNG](./resources/Capture.PNG)
-Here is a snapshot of the average trip duration of users
+### Here is a snapshot of the Average Trip duration of users
 ![AverageTripDuration.PNG](./resources/AverageTripDuration.PNG)
-The following shows a snapshot of top starting locations in Manhattan
-![TopStaringLocations.PNG](./resources/TopStaringLocations.PNG)
-The checkout times by gender shows us , male renting bikes is way more than other genders
+### The following shows a snapshot of Top Starting locations in Manhattan Fot Bike Pickup
+![TopStaringLocatin.PNG](./resources/TopStaringLocatin.PNG)
+
+
+#### The Checkout times by gender shows us , male renting bikes is way more than other genders
+### Number of Bikes CheckOut Times By Gender for Every hour. 
 ![CheckoutTimesByGender.PNG](./resources/CheckoutTimesByGender.PNG)
-In the following image we can Understand how many trips by weekday per hour look like , which displays around 7-8 am and 5-6pm are busy and Thursday seems to be more busy than other days .
+
+#### In the following Heat Map we can Understand how many trips by weekday per hour look like , which displays around 7-8 am and 5-6pm are busy and Thursday seems to be more busy than other days .
+### Trips By Weekday Per Hour 
 ![TripsByWeekdayperHour.PNG](./resources/TripsByWeekdayperHour.PNG)
-The Following displays User trips by gender and type of user by weekday!
+#### The Following displays User trips by gender and type of user by weekday!
 ![Usertrips.PNG](./resources/Usertrips.PNG)
+
+
+### Checkout Times For Users
+![Checkouttimesfousers.PNG](./resources/Checkouttimesfousers.PNG)
+
+### Trips Gender Wise
+![TripsByGender.PNG](./resources/TripsByGender.PNG)
+
+
 ## SUMMARY
 The checkout times for user is highest during the 0th  the hour , this can be noted to be busiest to Provide services
 Males checkout are the highest , and subscribers are more than customers.
